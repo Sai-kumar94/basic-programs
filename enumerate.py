@@ -26,5 +26,3 @@ for  index,letter in enumerate(words):
     print(index)
     print(letter)
     print()
-
-
