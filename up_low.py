@@ -31,4 +31,4 @@ def up_low(s):
     print(f'uppercase count : {d["upper"]}')
     print(f'lowercase count : {d["lower"]}')
 up_low('Hi,How are you?')
-
+ 
